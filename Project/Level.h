@@ -31,5 +31,5 @@ public:
 private:
 	bool ConvertLevel(int* playerX, int* playerY);
 	int GetIndexFromCoordinates(int x, int y);
-
+	 
 };
